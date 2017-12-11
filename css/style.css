@@ -132,10 +132,14 @@ textarea{
 	}
 }
 /* ===== TITLE END ===== */
+
+/* ===== DEFAULT TEXT ===== */
 .default-text{
 	font-size: 15px;
 	line-height: 1.733;
 }
+/* ===== DEFAULT TEXT END ===== */
+
 /* ===== BLOCKQUOTE ===== */
 blockquote{
 	padding: 0;
